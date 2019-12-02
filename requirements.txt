@@ -14,3 +14,4 @@ six==1.13.0
 suds-jurko==0.6
 urllib3==1.25.7
 wrapt==1.11.2
+python=3.6.9
