@@ -1,1 +1,1 @@
-worker: python echo_bot.py $PORT
+worker: python3 echo_bot.py
