@@ -1,1 +1,1 @@
-worker: python3 echo_bot.py
+worker: pyton3 echo_bot.py
